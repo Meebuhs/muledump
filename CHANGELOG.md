@@ -1,3 +1,11 @@
+**2017-07-27** version 0.7
+
+- updated class stats for necromancer and sorcerer buff
+- updated dungeons completed
+- fixed broken vault view
+- X15.1.0 items
+- updated vaults to match new layout
+
 **2016-10-16** version 0.6.7
 
 - 27.7.X6 items
